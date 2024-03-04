@@ -1,1 +1,1 @@
-Projetcs I created on PHP Codecademy Course!
+# Lessons/Tasks/Projects I completed on the php Codecademy Course.
